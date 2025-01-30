@@ -19,15 +19,11 @@ li {
     list-style-type: none;
 }
 
-
-
 a:hover,
 a:focus
 {
     color: #4D5AE5;
 }
-
-
 
 .color {
     color: #2e2f42;
