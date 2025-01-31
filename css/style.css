@@ -4,7 +4,7 @@ body {
     font-size: 16px;
     line-height: 1,5;
     letter-spacing: 2%;
-    font-family: roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 a {
@@ -31,7 +31,7 @@ a:focus
 
 .logo-header {
     text-transform: uppercase;
-    font-family: raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -97,8 +97,9 @@ a:focus
 }
 
 .second-section-header {
-    font-size: 36px;
-    line-height: 1.11;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -107,10 +108,10 @@ a:focus
 
 .second-section-text {
     font-weight: 500;
-    font-size: 20px;
+    font-size: 16px;
     letter-spacing: 0.02em;
-    line-height: 1.2;
-    color: #2e2f42;
+    line-height: 1.5;
+    color: #434455;
 }
 
 .team-section{
@@ -133,9 +134,11 @@ a:focus
 }
 
 .team-section-title {
+    font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
     letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #434455;
 }
 
 .team-section {
@@ -174,7 +177,7 @@ a:focus
 
 .logo-footer {
     text-transform: uppercase;
-    font-family: raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
